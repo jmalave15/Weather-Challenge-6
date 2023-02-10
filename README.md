@@ -22,3 +22,6 @@ Integrated with
 
 
 ![Screen Shot 2023-02-09 at 1 58 58 PM](https://user-images.githubusercontent.com/120431488/217912974-271374fc-ee7a-4595-884d-0fdd53ef9ef2.png)
+
+
+Deployed Url: https://jmalave15.github.io/Weather-Challenge-6/ 
